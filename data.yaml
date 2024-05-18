@@ -1,0 +1,7 @@
+names:
+- dog
+- person
+nc: 2
+test: C:/Users/yuuki/programming/my_study/annotation_tutorial/after_split/test/images
+train: C:/Users/yuuki/programming/my_study/annotation_tutorial/after_split/train/images
+val: C:/Users/yuuki/programming/my_study/annotation_tutorial/after_split/val/images
