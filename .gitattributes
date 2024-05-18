@@ -1,0 +1,3 @@
+*.pt filter=lfs
+*.png filter=lfs
+*.jpg filter=lfs
